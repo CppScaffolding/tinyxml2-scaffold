@@ -1,0 +1,4 @@
+## .gitignore file for tinyxml2-scaffold
+
+## ignore folder fetched through gclient
+tinyxml2
